@@ -2,6 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Tiktok_top_anchor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/common_server" vcs="Git" />
   </component>
 </project>
